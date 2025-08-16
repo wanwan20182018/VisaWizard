@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://wanwan20182018.github.io/VisaWizard/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://visawizard-a2q.pages.dev/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://wanwan20182018.github.io/VisaWizard/</loc>
+<loc>https://visawizard-a2q.pages.dev/</loc>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/about/</loc>
+<lastmod>2025-08-16T21:00:44+01:00</lastmod>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/accessibility/</loc>
+<lastmod>2025-08-16T19:54:04+01:00</lastmod>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/articles/</loc>
+<lastmod>2025-08-16T12:55:10+01:00</lastmod>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/contact/</loc>
+<lastmod>2025-08-16T21:01:55+01:00</lastmod>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/cookie-policy/</loc>
+<lastmod>2025-08-16T19:48:28+01:00</lastmod>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/plugin-setting/</loc>
+<lastmod>2025-08-16T12:42:42+01:00</lastmod>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/privacy-policy/</loc>
+<lastmod>2025-08-16T19:20:24+01:00</lastmod>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/setup-guide/</loc>
+<lastmod>2025-08-16T12:43:32+01:00</lastmod>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/sitemap/</loc>
+<lastmod>2025-08-16T20:00:30+01:00</lastmod>
+</url>
+<url>
+<loc>https://visawizard-a2q.pages.dev/terms-of-use/</loc>
+<lastmod>2025-08-16T19:25:55+01:00</lastmod>
 </url>
 </urlset>
